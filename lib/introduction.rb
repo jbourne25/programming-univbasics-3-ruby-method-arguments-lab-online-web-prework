@@ -7,14 +7,13 @@
 #puts "HI, MY NAME IS #{NAME}."
 end
 
-NAME = ("FRED")
-LANGUAGE = ("JAVA")
-"HI, MY NAME IS #{NAME} AND I AM LEARNING TO PROGRAM IN #{LANGUAGE}."
+#def introduction_with_language(NAME, LANGUAGE)
+#puts "HI, MY NAME IS #{NAME} AND I AM LEARNING TO PROGRAM IN #{LANGUAGE}."
+end
 
-NAME = ("FRED")
-LANGUAGE = ("RUBY")
-"HI, MY NAME IS #{NAME} AND I AM LEARNING TO PROGRAM IN #{LANGUAGE}"
-
+#def introduction_with_language_optional(NAME, LANGUAGE ="RUBY")
+#puts "HI, MY NAME IS #{NAME} AND I AM LEARNING TO PROGRAM IN #{LANGUAGE}"
+end
 
 
 

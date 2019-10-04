@@ -7,7 +7,7 @@ NAME = "FRED"
 "HI, MY NAME IS #{NAME}."
 
 introduction_with_language = "NAME", "LANGUAGE"
-
+"HI, MY NAME IS #{NAME} AND I AM LEARNING TO PROGRAM IN #{LANGUAGE}."
 
 
 

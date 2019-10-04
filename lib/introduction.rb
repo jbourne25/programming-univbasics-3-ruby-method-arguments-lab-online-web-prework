@@ -7,12 +7,12 @@
 #puts "Hi, my name is #{name}."
 #end
 
-#def introduction_with_language(NAME, LANGUAGE)
-#puts "HI, MY NAME IS #{NAME} AND I AM LEARNING TO PROGRAM IN #{LANGUAGE}."
+#def introduction_with_language(name, language)
+#puts "Hi, my name is #{name} and I am learning to program in #{language}."
 #end
 
-#def introduction_with_language_optional(NAME, LANGUAGE ="RUBY")
-#puts "HI, MY NAME IS #{NAME} AND I AM LEARNING TO PROGRAM IN #{LANGUAGE}"
+#def introduction_with_language_optional(name, language ="ruby")
+#puts "Hi, my name is #{name} and I am learning to program in #{language}"
 #end
 
 

@@ -3,7 +3,7 @@
 # thing is NOT to "complete labs," the important thing is to learn the skills you need
 # in order to complete the rest of this course and be ready for the next course!
 
-defNAME = ("FRED")
+NAME = ("FRED")
 "HI, MY NAME IS #{NAME}."
 
 NAME = ("FRED")
@@ -11,7 +11,7 @@ LANGUAGE = ("JAVA")
 "HI, MY NAME IS #{NAME} AND I AM LEARNING TO PROGRAM IN #{LANGUAGE}."
 
 NAME = ("FRED")
-LANGUAGE = ("JAVA = RUBY")
+LANGUAGE = ("JAVA, RUBY")
 "HI, MY NAME IS #{NAME} AND I AM LEARNING TO PROGRAM IN #{LANGUAGE}"
 
 

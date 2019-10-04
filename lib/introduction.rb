@@ -3,8 +3,9 @@
 # thing is NOT to "complete labs," the important thing is to learn the skills you need
 # in order to complete the rest of this course and be ready for the next course!
 
-NAME = ("FRED")
-"HI, MY NAME IS #{NAME}."
+def introduction(NAME)
+puts "HI, MY NAME IS #{NAME}."
+end
 
 NAME = ("FRED")
 LANGUAGE = ("JAVA")

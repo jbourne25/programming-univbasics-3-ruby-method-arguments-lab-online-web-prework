@@ -6,10 +6,10 @@
 NAME = "FRED"
 "HI, MY NAME IS #{NAME}."
 
-#introduction_with_language(FRED, JAVA)
+#introduction_with_language"FRED", "JAVA"
 "HI, MY NAME IS #{NAME} AND I AM LEARNING TO PROGRAM IN #{LANGUAGE}."
 
-#introduction_with_language_optional(FRED, JAVA = "RUBY")
+#introduction_with_language_optional'FRED', 'JAVA' = "RUBY")
  "HI, MY NAME IS #{NAME} AND I AM LEARNING TO PROGRAM IN #{LANGUAGE}"
 
 

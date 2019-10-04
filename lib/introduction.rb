@@ -3,16 +3,13 @@
 # thing is NOT to "complete labs," the important thing is to learn the skills you need
 # in order to complete the rest of this course and be ready for the next course!
 
-#introduction
-NAME = "FRED"      
+#introduction"FRED"
 "HI, MY NAME IS #{NAME}."
 
-#introduction_with_language
-NAME = "FRED" 
-LANGUAGE = "RUBY"
+#introduction_with_language"FRED", "RUBY"
 "HI, MY NAME IS #{NAME} AND I AM LEARNING TO PROGRAM IN #{LANGUAGE}."
 
-introduction_with_language_optional(FRED, JAVA = "RUBY")
+#introduction_with_language_optional('FRED', 'JAVA' = "RUBY")
 "HI, MY NAME IS #{NAME} AND I AM LEARNING TO PROGRAM IN #{LANGUAGE}"
 
 

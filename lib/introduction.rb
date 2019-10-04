@@ -6,9 +6,7 @@
 NAME = "FRED"      
 "HI, MY NAME IS #{NAME}."
 
-introduction_with_language = "NAME", "LANGUAGE"
-NAME = "DAN"
-LANGUAGE = "EMBER"
+NAME = "FRED" and LANGUAGE = "RUBY"
 "HI, MY NAME IS #{NAME} AND I AM LEARNING TO PROGRAM IN #{LANGUAGE}."
 
 

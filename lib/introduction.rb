@@ -6,6 +6,8 @@
 NAME = "FRED"      
 "HI, MY NAME IS #{NAME}."
 
+introduction_with_language = "NAME", "LANGUAGE"
+
 
 
 
